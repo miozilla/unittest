@@ -12,6 +12,10 @@
 - Correct code with a try/except statement
 
 
+## Similar Skills Set
+- Alternative : pytest, nose2, doctest, Hypothesis
+  
+
 ## Python Unit Testing
 
 ![unittest001.png](./media/unittest001.png)
